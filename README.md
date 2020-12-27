@@ -1,2 +1,2 @@
 # Qt_project
-Draw linear regression curve
+GUI for drawing linear regression curves
